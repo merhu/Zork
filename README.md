@@ -12,23 +12,3 @@ When the user exits the house or quits there is a 25% chance they will be follow
 
 Also let the user know how many rooms they visited after they exit or quit.
 
-room	contains	doors to (direction & room #)
-#1	foyer	dead scorpion	room n2
-#2	front room	piano	rooms s1,w3, e4
-#3	library	spiders	rooms e2 & n5
-#4	kitchen	bats	rooms w2 & n7
-#5	
-dining room
-
-dust
-
-empty box
-
-room s3
-#6	vault	3 walking skeletons	
-room e7
-
-room e8 (only 25% chance of finding)
-
-#7	parlor	treasure chest	rooms w6, s4
-#8	secret room	piles of gold	room w6
